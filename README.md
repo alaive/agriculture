@@ -1,4 +1,28 @@
-# agriculture
+# Plant Simulator
+
+Pkant simulator implemented using delay differential equations that simulates the growth and color of leaves in a plant, the concentration of water and nutrient in soil. See Agostini et al. 2014 for a detail explanation. The simulator is implemented in Matlab R2019b. 
+
+# Instructions
+
+For a quick execution of the code, run the command "demo" in the workspace. The main function implementing the simulator is provided in main.m.
+
+# Functions
+
+
+
+# Reference
+Please acknowledge the work in any acedemic publication that used parts of these codes.
+
+@article{agostini2014learning,
+  title={Learning weakly correlated cause--effects for gardening with a cognitive system},
+  author={Agostini, Alejandro and Torras, Carme and W{\"o}rg{\"o}tter, Florentin},
+  journal={Engineering Applications of Artificial Intelligence},
+  volume={36},
+  pages={178--194},
+  year={2014},
+  publisher={Elsevier}
+}
+
 
 # Licence
 
