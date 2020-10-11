@@ -1,6 +1,6 @@
 # Plant Simulator
 
-Pkant simulator implemented using delay differential equations that simulates the growth and color of leaves in a plant, the concentration of water and nutrient in soil. See Agostini et al. 2014 for a detail explanation. The simulator is implemented in Matlab R2019b. 
+Plant simulator implemented using delay differential equations that simulates the growth and color of leaves in a plant, the concentration of water and nutrient in soil. See Agostini et al. 2014 for a detail explanation. The simulator is implemented in Matlab R2019b. 
 
 # Instructions
 
