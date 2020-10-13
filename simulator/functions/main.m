@@ -11,9 +11,6 @@ function [sa,Lsa] = main(sa,aa,plantID)
 % 
 % Agostini - 01.10.2020
 
-% Copyright (c) 2020 by Alejandro Agostini
-
-
 global dt act_interval
 
 % reinitialize random sequence
