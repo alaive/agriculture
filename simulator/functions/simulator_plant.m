@@ -12,7 +12,6 @@ function [sa,hNL]=simulator_plant(sa,Lsa,hNL,krand,t)
 %
 % Agostini - 08.10.2020
 
-% Copyright (c) 2020 by Alejandro Agostini
 
 global TAU
 global dt
