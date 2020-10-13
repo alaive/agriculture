@@ -4,8 +4,6 @@ function demo
 %
 % Agostini - 01.10.2020
 
-% Copyright (c) 2020 by Alejandro Agostini
-
 addpath ../params
 
 % Set demo specifications
