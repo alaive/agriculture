@@ -14,8 +14,6 @@ function [LL,hNL]=simulator_plant_leaf_management(LL,stem,vw,vn,hNL,t)
 % 
 % Agostini - 01.10.2020
 
-% Copyright (c) 2020 by Alejandro Agostini
-
 
 global THR_FALL
 
