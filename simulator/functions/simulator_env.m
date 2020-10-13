@@ -10,8 +10,6 @@ function sa=simulator_env(sa,del)
 % 
 % Agostini - 01.10.2020
 
-% Copyright (c) 2020 by Alejandro Agostini
-
 % global dt
 
 T=sa.env.T;
