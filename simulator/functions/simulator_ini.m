@@ -13,8 +13,6 @@
 %
 % Agostini - 08.10.2020
 
-% Copyright (c) 2020 by Alejandro Agostini
-
 
 global which_kplant
 
