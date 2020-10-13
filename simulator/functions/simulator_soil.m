@@ -10,8 +10,6 @@ function sa=simulator_soil(sa,dsn,dsw)
 % 
 % Agostini - 01.10.2020
 
-% Copyright (c) 2020 by Alejandro Agostini
-
 global dt
 global kNutSize
 global kWaterSize kWaterEvap
